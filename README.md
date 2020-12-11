@@ -1,2 +1,2 @@
-# fullstack-open-course2019
+# fullstack-open-course
 Hola!
